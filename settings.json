@@ -6,9 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "minesmp01-PeAN.aternos.me
-Connect
-Starting",
+    "ip": "minesmp01-PeAN.aternos.me"
     "port": 30948,
     "version": "1.20.1",
     "try-creative": false
